@@ -14,10 +14,11 @@ Hi there! I'm **MaqGo**, and this is where I share my projects, dashboards, and 
 
 - 🛠️ **Tools & Techniques**  
   Leveraging:
-  - Power BI (DAX, Power Query)
-  - Excel for data modeling
-  - SQL for data extraction
-  - GitHub for version control and collaboration
+  |--------------------------------------------|
+  |Power BI (DAX, Power Query)                 |
+  |Excel for data modeling                     |
+  |SQL for data extraction                     |
+  |GitHub for version control and collaboration|
 
 ---
 
